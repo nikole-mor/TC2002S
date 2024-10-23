@@ -1,5 +1,5 @@
 from openai import OpenAI
-secret_key="secret key"
+secret_key="-----"
 prompt = "Give me a summary"
 
 client = OpenAI (
